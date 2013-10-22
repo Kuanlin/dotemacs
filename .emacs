@@ -38,6 +38,7 @@
 ;;display line number
 (global-linum-mode 1)
 
+(load "autosaveconf.el")
 ;;enable reload-dot-emacs from http://snipplr.com/view/18681
 (load "reload-dot-emacs.el")
 ;;reload-dot-emacs bind key at C-x M-r
